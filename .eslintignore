@@ -1,0 +1,9 @@
+node_modules/
+dist/
+index.html
+components.d.ts
+auto-imports.d.ts
+.cz-config.js
+!.eslintrc.js
+.stylelintrc.js
+README.md
